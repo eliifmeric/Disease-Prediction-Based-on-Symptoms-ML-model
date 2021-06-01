@@ -1,0 +1,254 @@
+Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Symptom_6,Symptom_7,Symptom_8,Symptom_9,Symptom_10,Symptom_11
+Fungal infection,itching,skin rash,nodal skin eruptions,dischromic patches,Irritation,Ring-shaped redness,Lesions different from skin,0.0,0.0,0.0,0.0
+Fungal infection,skin rash,nodal skin eruptions,dischromic patches,itching,Irritation,Ring-shaped redness,Lesions different from skin,0.0,0.0,0.0,0.0
+Fungal infection,itching,nodal skin eruptions,dischromic  patches,skin rash,Irritation,Ring-shaped redness,Lesions different from skin,0.0,0.0,0.0,0.0
+Fungal infection,itching,skin rash,dischromic  patches,nodal skin eruptions,Irritation,Ring-shaped redness,Lesions different from skin,0.0,0.0,0.0,0.0
+Fungal infection,skin rash,itching,dischromic  patches,nodal skin eruptions,Irritation,Ring-shaped redness,Lesions different from skin,0.0,0.0,0.0,0.0
+Fungal infection,skin rash,itching,nodal skin eruptions,dischromic  patches,Irritation,Ring-shaped redness,Lesions different from skin,0.0,0.0,0.0,0.0
+Fungal infection,itching,skin rash,nodal skin eruptions,dischromic  patches,Irritation,Ring-shaped redness,Lesions different from skin,0.0,0.0,0.0,0.0
+Allergy,continuous sneezing,shivering,chills,watering from eyes,hives,sneeze,wheezing,rash,0.0,0.0,0.0
+Allergy,shivering,chills,watering from eyes,continuous sneezing,hives,sneeze,wheezing,rash,0.0,0.0,0.0
+Allergy,continuous sneezing,chills,watering from eyes,shivering,hives,sneeze,wheezing,rash,0.0,0.0,0.0
+Allergy,continuous sneezing,shivering,watering from eyes,chills,hives,sneeze,wheezing,rash,0.0,0.0,0.0
+GERD,stomach pain,acidity,ulcers on tongue,vomiting,cough,chest pain,souring in stomach,Bad breath,weakness accomponied by icterus,0.0,0.0
+GERD,stomach pain,ulcers on tongue,vomiting,cough,chest pain,acidity,souring in stomach,Bad breath,weakness accomponied by icterus,0.0,0.0
+GERD,stomach pain,acidity,vomiting,cough,chest pain,ulcers on tongue,souring in stomach,Bad breath,weakness accomponied by icterus,0.0,0.0
+GERD,stomach pain,acidity,ulcers on tongue,cough,chest pain,vomiting,souring in stomach,Bad breath,weakness accomponied by icterus,0.0,0.0
+GERD,stomach pain,acidity,ulcers on tongue,vomiting,chest pain,cough,souring in stomach,Bad breath,weakness accomponied by icterus,0.0,0.0
+GERD,acidity,ulcers on tongue,vomiting,cough,chest pain,stomach pain,souring in stomach,Bad breath,weakness accomponied by icterus,0.0,0.0
+Chronic cholestasis,itching,vomiting,yellowish skin,nausea,loss of appetite,abdominal pain,yellowing of eyes,Diarrhea,0.0,0.0,0.0
+Chronic cholestasis,vomiting,yellowish skin,nausea,loss of appetite,abdominal pain,yellowing of eyes,itching,Diarrhea,0.0,0.0,0.0
+Chronic cholestasis,itching,yellowish skin,nausea,loss of appetite,abdominal pain,yellowing of eyes,vomiting,Diarrhea,0.0,0.0,0.0
+Chronic cholestasis,itching,vomiting,nausea,loss of appetite,abdominal pain,yellowing of eyes,yellowish skin,Diarrhea,0.0,0.0,0.0
+Chronic cholestasis,itching,vomiting,yellowish skin,loss of appetite,abdominal pain,yellowing of eyes,nausea,Diarrhea,0.0,0.0,0.0
+Chronic cholestasis,itching,vomiting,yellowish skin,nausea,abdominal pain,yellowing of eyes,loss of appetite,Diarrhea,0.0,0.0,0.0
+Chronic cholestasis,itching,vomiting,yellowish skin,nausea,loss of appetite,yellowing of eyes,abdominal pain,Diarrhea,0.0,0.0,0.0
+Drug Reaction,itching,skin rash,stomach pain,burning micturition,spotting urination,Urticaria,Difficulty breathing,low blood pressure,0.0,0.0,0.0
+Drug Reaction,itching,stomach pain,burning micturition,spotting  urination,skin rash,Urticaria,Difficulty breathing,low blood pressure,0.0,0.0,0.0
+Drug Reaction,itching,skin rash,burning micturition,spotting  urination,stomach pain,Urticaria,Difficulty breathing,low blood pressure,0.0,0.0,0.0
+Drug Reaction,itching,skin rash,stomach pain,spotting  urination,burning micturition,Urticaria,Difficulty breathing,low blood pressure,0.0,0.0,0.0
+Drug Reaction,skin rash,stomach pain,burning micturition,spotting  urination,itching,Urticaria,Difficulty breathing,low blood pressure,0.0,0.0,0.0
+Peptic ulcer diseae,vomiting,loss of appetite,abdominal pain,passage of gases,internal itching,indigestion,Relief that comes with vomiting,Nausea,stomach after nourishment,0.0,0.0
+Peptic ulcer diseae,vomiting,indigestion,abdominal pain,passage of gases,internal itching,loss of appetite,Relief that comes with vomiting,Nausea,stomach after nourishment,0.0,0.0
+Peptic ulcer diseae,indigestion,loss of appetite,abdominal pain,passage of gases,internal itching,indigestion,Relief that comes with vomiting,Nausea,stomach after nourishment,0.0,0.0
+Peptic ulcer diseae,vomiting,indigestion,loss of appetite,passage of gases,internal itching,abdominal pain,Relief that comes with vomiting,Nausea,stomach after nourishment,0.0,0.0
+Peptic ulcer diseae,vomiting,indigestion,loss of appetite,abdominal pain,internal itching,passage of gases,Relief that comes with vomiting,Nausea,stomach after nourishment,0.0,0.0
+Peptic ulcer diseae,vomiting,indigestion,loss of appetite,abdominal pain,passage of gases,internal itching,Relief that comes with vomiting,Nausea,stomach after nourishment,0.0,0.0
+AIDS,muscle wasting,patches in throat,prolonged high fever,extra marital contacts,thrush in the mouth,swelling of the lymph nodes,cold sores,lung diseases,sickness that occurs often,0.0,0.0
+AIDS,patches in throat,prolonged high fever,extra marital contacts,muscle wasting,thrush in the mouth,swelling of the lymph nodes,cold sores,lung diseases,sickness that occurs often,0.0,0.0
+AIDS,muscle wasting,prolonged high fever,extra marital contacts,patches in throat,thrush in the mouth,swelling of the lymph nodes,cold sores,lung diseases,sickness that occurs often,0.0,0.0
+AIDS,muscle wasting,patches in throat,extra marital contacts,prolonged high fever,thrush in the mouth,swelling of the lymph nodes,cold sores,lung diseases,sickness that occurs often,0.0,0.0
+AIDS,muscle wasting,patches in throat,high fever,prolonged high fever,thrush in the mouth,swelling of the lymph nodes,cold sores,lung diseases,sickness that occurs often,0.0,0.0
+Diabetes,fatigue,weight loss,restlessness,lethargy,irregular sugar level,blurred and distorted vision,obesity,excessive hunger,increased appetite,polyuria,0.0
+Diabetes,weight loss,restlessness,lethargy,irregular sugar level,blurred and distorted vision,obesity,excessive hunger,increased appetite,polyuria,fatigue,0.0
+Diabetes,fatigue,restlessness,lethargy,irregular sugar level,blurred and distorted vision,obesity,excessive hunger,increased appetite,polyuria,weight loss,0.0
+Diabetes,fatigue,weight loss,lethargy,irregular sugar level,blurred and distorted vision,obesity,excessive hunger,increased appetite,polyuria,restlessness,0.0
+Diabetes,fatigue,weight loss,restlessness,irregular sugar level,blurred and distorted vision,obesity,excessive hunger,increased appetite,polyuria,lethargy,0.0
+Diabetes,fatigue,weight loss,restlessness,lethargy,blurred and distorted vision,obesity,excessive hunger,increased appetite,polyuria,irregular sugar level,0.0
+Diabetes,fatigue,weight loss,restlessness,lethargy,irregular sugar level,obesity,excessive hunger,increased appetite,polyuria,blurred and distorted vision,0.0
+Diabetes,fatigue,weight loss,restlessness,lethargy,irregular sugar level,blurred and distorted vision,excessive hunger,increased appetite,polyuria,obesity,0.0
+Diabetes,fatigue,weight loss,restlessness,lethargy,irregular sugar level,blurred and distorted vision,obesity,increased appetite,polyuria,excessive hunger,0.0
+Gastroenteritis,vomiting,sunken eyes,dehydration,diarrhoea,Low blood pressure,Dry mouth and skin,fever,Excessive thirst,0.0,0.0,0.0
+Gastroenteritis,sunken eyes,dehydration,diarrhoea,vomiting,Low blood pressure,Dry mouth and skin,fever,Excessive thirst,0.0,0.0,0.0
+Gastroenteritis,vomiting,dehydration,diarrhoea,sunken eyes,Low blood pressure,Dry mouth and skin,fever,Excessive thirst,0.0,0.0,0.0
+Gastroenteritis,vomiting,sunken eyes,diarrhoea,dehydration,Low blood pressure,Dry mouth and skin,fever,Excessive thirst,0.0,0.0,0.0
+Bronchial Asthma,fatigue,cough,high fever,breathlessness,family history,mucoid sputum,Wheezing,Whistling sound as you breathe,chest pressure with pain,0.0,0.0
+Bronchial Asthma,cough,high fever,breathlessness,family history,mucoid sputum,fatigue,Wheezing,Whistling sound as you breathe,chest pressure with pain,0.0,0.0
+Bronchial Asthma,fatigue,high fever,breathlessness,family history,mucoid sputum,cough,Wheezing,Whistling sound as you breathe,chest pressure with pain,0.0,0.0
+Bronchial Asthma,fatigue,cough,breathlessness,family history,mucoid sputum,high fever,Wheezing,Whistling sound as you breathe,chest pressure with pain,0.0,0.0
+Bronchial Asthma,fatigue,cough,high fever,family history,mucoid sputum,breathlessness,Wheezing,Whistling sound as you breathe,chest pressure with pain,0.0,0.0
+Bronchial Asthma,fatigue,cough,high fever,breathlessness,mucoid sputum,family history,Wheezing,Whistling sound as you breathe,chest pressure with pain,0.0,0.0
+Hypertension,headache,chest pain,dizziness,loss of balance,lack of concentration,Tinnitus,Blurred or double vision,Frequent urination,0.0,0.0,0.0
+Hypertension,chest pain,dizziness,loss of balance,lack of concentration,headache,Tinnitus,Blurred or double vision,Frequent urination,0.0,0.0,0.0
+Hypertension,headache,dizziness,loss of balance,lack of concentration,chest pain,Tinnitus,Blurred or double vision,Frequent urination,0.0,0.0,0.0
+Hypertension,headache,chest pain,loss of balance,lack of concentration,dizziness,Tinnitus,Blurred or double vision,Frequent urination,0.0,0.0,0.0
+Hypertension,headache,chest pain,dizziness,lack of concentration,loss of balance,Tinnitus,Blurred or double vision,Frequent urination,0.0,0.0,0.0
+Migraine,acidity,indigestion,headache,blurred and distorted vision,excessive hunger,stiff neck,depression,irritability,visual disturbances,0.0,0.0
+Migraine,indigestion,strong headache on one side,blurred and distorted vision,excessive hunger,stiff neck,depression,irritability,visual disturbances,acidity,0.0,0.0
+Migraine,acidity,headache,blurred and distorted vision,excessive hunger,stiff neck,depression,irritability,visual disturbances,indigestion,0.0,0.0
+Migraine,acidity,indigestion,blurred and distorted vision,excessive hunger,stiff neck,depression,irritability,visual disturbances,headache,0.0,0.0
+Migraine,acidity,indigestion,strong headache on one side,excessive hunger,stiff neck,depression,irritability,visual disturbances,blurred and distorted vision,0.0,0.0
+Migraine,acidity,indigestion,strong headache on one side,blurred and distorted vision,stiff neck,depression,irritability,visual disturbances,excessive hunger,0.0,0.0
+Migraine,acidity,indigestion,strong headache on one side,blurred and distorted vision,excessive hunger,depression,irritability,visual disturbances,stiff neck,0.0,0.0
+Migraine,acidity,indigestion,strong headache on one side,blurred and distorted vision,excessive hunger,stiff neck,irritability,visual disturbances,depression,0.0,0.0
+Migraine,acidity,indigestion,strong headache on one side,blurred and distorted vision,excessive hunger,stiff neck,depression,visual disturbances,irritability,0.0,0.0
+Migraine,acidity,indigestion,strong headache on one side,blurred and distorted vision,excessive hunger,stiff neck,depression,irritability,visual disturbances,0.0,0.0
+Cervical spondylosis,back pain,weakness in limbs,neck pain,dizziness,loss of balance,difficulty walking,tingling in the limbs,loss of coordination,tense neck with hard pain,0.0,0.0
+Cervical spondylosis,weakness in limbs,neck pain,dizziness,loss of balance,back pain,difficulty walking,tingling in the limbs,loss of coordination,tense neck with hard pain,0.0,0.0
+Cervical spondylosis,back pain,neck pain,dizziness,loss of balance,weakness in limbs,difficulty walking,tingling in the limbs,loss of coordination,tense neck with hard pain,0.0,0.0
+Cervical spondylosis,back pain,weakness in limbs,dizziness,loss of balance,neck pain,difficulty walking,tingling in the limbs,loss of coordination,tense neck with hard pain,0.0,0.0
+Cervical spondylosis,back pain,weakness in limbs,neck pain,loss of balance,dizziness,difficulty walking,tingling in the limbs,loss of coordination,tense neck with hard pain,0.0,0.0
+Paralysis (brain hemorrhage),vomiting,severe headache,weakness of one body side,altered sensorium,mild confusion,nausea,blurred vision,difficulty swallowing,0.0,0.0,0.0
+Paralysis (brain hemorrhage),severe headache,weakness of one body side,altered sensorium,vomiting,mild confusion,nausea,blurred vision,difficulty swallowing,0.0,0.0,0.0
+Paralysis (brain hemorrhage),vomiting,weakness of one body side,altered sensorium,severe headache,mild confusion,nausea,blurred vision,difficulty swallowing,0.0,0.0,0.0
+Paralysis (brain hemorrhage),vomiting,severe headache,altered sensorium,weakness of one body side,mild confusion,nausea,blurred vision,difficulty swallowing,0.0,0.0,0.0
+Jaundice,itching,vomiting,fatigue,weight loss,high fever,yellowish skin,dark urine,abdominal pain,yellowness on eyes,0.0,0.0
+Jaundice,vomiting,fatigue,weight loss,high fever,yellowish skin,dark urine,abdominal pain,itching,yellowness on eyes,0.0,0.0
+Jaundice,itching,fatigue,weight loss,high fever,yellowish skin,dark urine,abdominal pain,vomiting,yellowness on eyes,0.0,0.0
+Jaundice,itching,vomiting,weight loss,high fever,yellowish skin,dark urine,abdominal pain,fatigue,yellowness on eyes,0.0,0.0
+Jaundice,itching,vomiting,fatigue,high fever,yellowish skin,dark urine,abdominal pain,weight loss,yellowness on eyes,0.0,0.0
+Jaundice,itching,vomiting,fatigue,weight loss,yellowish skin,dark urine,abdominal pain,high fever,yellowness on eyes,0.0,0.0
+Jaundice,itching,vomiting,fatigue,weight loss,high fever,dark urine,abdominal pain,yellowish skin,yellowness on eyes,0.0,0.0
+Jaundice,itching,vomiting,fatigue,weight loss,high fever,yellowish skin,abdominal pain,dark urine,yellowness on eyes,0.0,0.0
+Malaria,chills,vomiting,high fever,sweating,headache,nausea,diarrhoea,muscle pain,shivering,0.0,0.0
+Malaria,vomiting,high fever,sweating,headache,nausea,diarrhoea,muscle pain,chills,shivering,0.0,0.0
+Malaria,chills,high fever,sweating,headache,nausea,diarrhoea,muscle pain,vomiting,shivering,0.0,0.0
+Malaria,chills,vomiting,sweating,headache,nausea,diarrhoea,muscle pain,high fever,shivering,0.0,0.0
+Malaria,chills,vomiting,high fever,headache,nausea,diarrhoea,muscle pain,sweating,shivering,0.0,0.0
+Malaria,chills,vomiting,high fever,sweating,nausea,diarrhoea,muscle pain,headache,shivering,0.0,0.0
+Malaria,chills,vomiting,high fever,sweating,headache,diarrhoea,muscle pain,nausea,shivering,0.0,0.0
+Malaria,chills,vomiting,high fever,sweating,headache,nausea,muscle pain,diarrhoea,shivering,0.0,0.0
+Chicken pox,skin rash,fatigue,lethargy,high fever,headache,loss of appetite,mild fever,swelled lymph nodes,malaise,red spots over body,0.0
+Chicken pox,itching,fatigue,lethargy,high fever,headache,loss of appetite,mild fever,swelled lymph nodes,malaise,red spots over body,0.0
+Chicken pox,itching,skin rash,lethargy,high fever,headache,loss of appetite,mild fever,swelled lymph nodes,malaise,red spots over body,0.0
+Chicken pox,itching,skin rash,fatigue,high fever,headache,loss of appetite,mild fever,swelled lymph nodes,malaise,red spots over body,0.0
+Chicken pox,itching,skin rash,fatigue,lethargy,headache,loss of appetite,mild fever,swelled lymph nodes,malaise,red spots over body,0.0
+Chicken pox,itching,skin rash,fatigue,lethargy,high fever,loss of appetite,mild fever,swelled lymph nodes,malaise,red spots over body,0.0
+Chicken pox,itching,skin rash,fatigue,lethargy,high fever,headache,mild fever,swelled lymph nodes,malaise,red spots over body,0.0
+Chicken pox,itching,skin rash,fatigue,lethargy,high fever,headache,loss of appetite,swelled lymph nodes,malaise,red spots over body,0.0
+Chicken pox,itching,skin rash,fatigue,lethargy,high fever,headache,loss of appetite,mild fever,malaise,red spots over body,0.0
+Dengue,skin rash,chills,joint pain,vomiting,fatigue,high fever,headache,nausea,loss of appetite,pain behind the eyes,back pain
+Dengue,chills,joint pain,vomiting,fatigue,high fever,headache,nausea,loss of appetite,pain behind the eyes,back pain,malaise
+Dengue,skin rash,joint pain,vomiting,fatigue,high fever,headache,nausea,loss of appetite,pain behind the eyes,back pain,malaise
+Dengue,skin rash,chills,vomiting,fatigue,high fever,headache,nausea,loss of appetite,pain behind the eyes,back pain,muscle pain
+Dengue,skin rash,chills,joint pain,fatigue,high fever,headache,nausea,loss of appetite,pain behind the eyes,back pain,malaise
+Dengue,skin rash,chills,joint pain,vomiting,high fever,headache,nausea,loss of appetite,pain behind the eyes,back pain,muscle pain
+Dengue,skin rash,chills,joint pain,vomiting,fatigue,headache,nausea,loss of appetite,pain behind the eyes,back pain,muscle pain
+Typhoid,chills,vomiting,fatigue,high fever,nausea,constipation,abdominal pain,diarrhoea,toxic look (typhos),belly pain,headache
+Typhoid,chills,vomiting,fatigue,high fever,headache,constipation,abdominal pain,diarrhoea,toxic look (typhos),belly pain,nausea
+Typhoid,chills,vomiting,fatigue,high fever,headache,nausea,abdominal pain,diarrhoea,toxic look (typhos),belly pain,constipation
+Typhoid,chills,vomiting,fatigue,high fever,headache,nausea,constipation,diarrhoea,toxic look (typhos),belly pain,abdominal pain
+Typhoid,chills,vomiting,fatigue,high fever,headache,nausea,constipation,abdominal pain,toxic look (typhos),belly pain,diarrhoea
+Typhoid,chills,vomiting,fatigue,high fever,headache,nausea,constipation,abdominal pain,diarrhoea,belly pain,toxic look (typhos)
+Typhoid,chills,vomiting,fatigue,high fever,headache,nausea,constipation,abdominal pain,diarrhoea,toxic look (typhos),belly pain
+Typhoid,chills,fatigue,high fever,headache,nausea,constipation,abdominal pain,diarrhoea,toxic look (typhos),belly pain,vomiting
+hepatitis A,joint pain,vomiting,yellowish skin,dark urine,nausea,loss of appetite,abdominal pain,diarrhoea,mild fever,yellowing of eyes,muscle pain
+hepatitis A,vomiting,yellowish skin,dark urine,nausea,loss of appetite,abdominal pain,diarrhoea,mild fever,yellowing of eyes,muscle pain,joint pain
+hepatitis A,joint pain,yellowish skin,dark urine,nausea,loss of appetite,abdominal pain,diarrhoea,mild fever,yellowing of eyes,muscle pain,vomiting
+hepatitis A,joint pain,vomiting,dark urine,nausea,loss of appetite,abdominal pain,diarrhoea,mild fever,yellowing of eyes,muscle pain,yellowish skin
+hepatitis A,joint pain,vomiting,yellowish skin,nausea,loss of appetite,abdominal pain,diarrhoea,mild fever,yellowing of eyes,muscle pain,dark urine
+hepatitis A,joint pain,vomiting,yellowish skin,dark urine,loss of appetite,abdominal pain,diarrhoea,mild fever,yellowing of eyes,muscle pain,nausea
+hepatitis A,joint pain,vomiting,yellowish skin,dark urine,nausea,abdominal pain,diarrhoea,mild fever,yellowing of eyes,muscle pain,loss of appetite
+hepatitis A,joint pain,vomiting,yellowish skin,dark urine,nausea,loss of appetite,diarrhoea,mild fever,yellowing of eyes,muscle pain,abdominal pain
+hepatitis A,joint pain,vomiting,yellowish skin,dark urine,nausea,loss of appetite,abdominal pain,mild fever,yellowing of eyes,muscle pain,diarrhoea
+Hepatitis B,fatigue,lethargy,yellowish skin,dark urine,loss of appetite,abdominal pain,yellow urine,yellowing of eyes,malaise,receiving blood transfusion,receiving unsterile injections
+Hepatitis B,itching,lethargy,yellowish skin,dark urine,loss of appetite,abdominal pain,yellow urine,yellowing of eyes,malaise,receiving blood transfusion,receiving unsterile injections
+Hepatitis B,itching,fatigue,yellowish skin,dark urine,loss of appetite,abdominal pain,yellow urine,yellowing of eyes,malaise,receiving blood transfusion,receiving unsterile injections
+Hepatitis B,itching,fatigue,lethargy,dark urine,loss of appetite,abdominal pain,yellow urine,yellowing of eyes,malaise,receiving blood transfusion,receiving unsterile injections
+Hepatitis B,itching,fatigue,lethargy,yellowish skin,loss of appetite,abdominal pain,yellow urine,yellowing of eyes,malaise,receiving blood transfusion,receiving unsterile injections
+Hepatitis B,itching,fatigue,lethargy,yellowish skin,dark urine,abdominal pain,yellow urine,yellowing of eyes,malaise,receiving blood transfusion,receiving unsterile injections
+Hepatitis B,itching,fatigue,lethargy,yellowish skin,dark urine,loss of appetite,yellow urine,yellowing of eyes,malaise,receiving blood transfusion,receiving unsterile injections
+Hepatitis B,itching,fatigue,lethargy,yellowish skin,dark urine,loss of appetite,abdominal pain,yellowing of eyes,malaise,receiving blood transfusion,receiving unsterile injections
+Hepatitis C,fatigue,yellowish skin,nausea,loss of appetite,yellowing of eyes,family history,anorexia,flu-like symptoms,dark urine color,0.0,0.0
+Hepatitis C,yellowish skin,nausea,loss of appetite,yellowing of eyes,family history,fatigue,anorexia,flu-like symptoms,dark urine color,0.0,0.0
+Hepatitis C,fatigue,nausea,loss of appetite,yellowing of eyes,family history,yellowish skin,anorexia,flu-like symptoms,dark urine color,0.0,0.0
+Hepatitis C,fatigue,yellowish skin,loss of appetite,yellowing of eyes,family history,nausea,anorexia,flu-like symptoms,dark urine color,0.0,0.0
+Hepatitis C,fatigue,yellowish skin,nausea,yellowing of eyes,family history,loss of appetite,anorexia,flu-like symptoms,dark urine color,0.0,0.0
+Hepatitis C,fatigue,yellowish skin,nausea,loss of appetite,family history,yellowing of eyes,anorexia,flu-like symptoms,dark urine color,0.0,0.0
+Hepatitis D,joint pain,vomiting,fatigue,yellowish skin,dark urine,nausea,loss of appetite,abdominal pain,yellowing of eyes,0.0,0.0
+Hepatitis D,vomiting,fatigue,yellowish skin,dark urine,nausea,loss of appetite,abdominal pain,yellowing of eyes,joint pain,0.0,0.0
+Hepatitis D,joint pain,fatigue,yellowish skin,dark urine,nausea,loss of appetite,abdominal pain,yellowing of eyes,vomiting,0.0,0.0
+Hepatitis D,joint pain,vomiting,yellowish skin,dark urine,nausea,loss of appetite,abdominal pain,yellowing of eyes,fatigue,0.0,0.0
+Hepatitis D,joint pain,vomiting,fatigue,dark urine,nausea,loss of appetite,abdominal pain,yellowing of eyes,yellowish skin,0.0,0.0
+Hepatitis D,joint pain,vomiting,fatigue,yellowish skin,nausea,loss of appetite,abdominal pain,yellowing of eyes,dark urine color,0.0,0.0
+Hepatitis D,joint pain,vomiting,fatigue,yellowish skin,dark urine,loss of appetite,abdominal pain,yellowing of eyes,nausea,0.0,0.0
+Hepatitis D,joint pain,vomiting,fatigue,yellowish skin,dark urine,nausea,abdominal pain,yellowing of eyes,loss of appetite,0.0,0.0
+Hepatitis D,joint pain,vomiting,fatigue,yellowish skin,dark urine,nausea,loss of appetite,yellowing of eyes,abdominal pain,0.0,0.0
+Hepatitis E,joint pain,vomiting,fatigue,high fever,yellowish skin,dark urine,nausea,loss of appetite,abdominal pain,yellowing of eyes,coma
+Hepatitis E,vomiting,fatigue,high fever,yellowish skin,dark urine,nausea,loss of appetite,abdominal pain,yellowing of eyes,acute liver failure,coma
+Hepatitis E,joint pain,fatigue,high fever,yellowish skin,dark urine,nausea,loss of appetite,abdominal pain,yellowing of eyes,acute liver failure,stomach bleeding
+Hepatitis E,joint pain,vomiting,high fever,yellowish skin,dark urine,nausea,loss of appetite,abdominal pain,yellowing of eyes,acute liver failure,coma
+Hepatitis E,joint pain,vomiting,fatigue,yellowish skin,dark urine,nausea,loss of appetite,abdominal pain,yellowing of eyes,acute liver failure,stomach bleeding
+Hepatitis E,joint pain,vomiting,fatigue,high fever,dark urine,nausea,loss of appetite,abdominal pain,yellowing of eyes,acute liver failure,coma
+Hepatitis E,joint pain,vomiting,fatigue,high fever,yellowish skin,nausea,loss of appetite,abdominal pain,yellowing of eyes,acute liver failure,stomach bleeding
+Hepatitis E,joint pain,vomiting,fatigue,high fever,yellowish skin,dark urine,loss of appetite,abdominal pain,yellowing of eyes,acute liver failure,coma
+Alcoholic hepatitis,vomiting,yellowish skin,abdominal pain,swelling of stomach,distention of abdomen,history of alcohol consumption,fluid overload,appetite and weight loss,constipation,fever with a week duration,0.0
+Alcoholic hepatitis,yellowish skin,abdominal pain,swelling of stomach,distention of abdomen,history of alcohol consumption,fluid overload,vomiting,appetite and weight loss,constipation,fever with a week duration,0.0
+Alcoholic hepatitis,vomiting,abdominal pain,swelling of stomach,distention of abdomen,history of alcohol consumption,fluid overload,yellowish skin,appetite and weight loss,constipation,fever with a week duration,0.0
+Alcoholic hepatitis,vomiting,yellowish skin,swelling of stomach,distention of abdomen,history of alcohol consumption,fluid overload,abdominal pain,appetite and weight loss,constipation,fever with a week duration,0.0
+Alcoholic hepatitis,vomiting,yellowish skin,abdominal pain,distention of abdomen,history of alcohol consumption,fluid overload,swelling of stomach,appetite and weight loss,constipation,fever with a week duration,0.0
+Alcoholic hepatitis,vomiting,yellowish skin,abdominal pain,swelling of stomach,history of alcohol consumption,fluid overload,distention of abdomen,appetite and weight loss,constipation,fever with a week duration,0.0
+Alcoholic hepatitis,vomiting,yellowish skin,abdominal pain,swelling of stomach,distention of abdomen,fluid overload,history of alcohol consumption,appetite and weight loss,constipation,fever with a week duration,0.0
+Tuberculosis,vomiting,fatigue,weight loss,cough,high fever,breathlessness,sweating,loss of appetite,mild fever,yellowing of eyes,swelled lymph nodes
+Tuberculosis,chills,fatigue,weight loss,cough,high fever,breathlessness,sweating,loss of appetite,mild fever,malaise,swelled lymph nodes
+Tuberculosis,chills,vomiting,weight loss,cough,high fever,breathlessness,sweating,loss of appetite,mild fever,malaise,chest pain
+Tuberculosis,chills,vomiting,fatigue,cough,high fever,breathlessness,sweating,loss of appetite,mild fever,yellowing of eyes,swelled lymph nodes
+Tuberculosis,chills,vomiting,fatigue,weight loss,high fever,breathlessness,sweating,loss of appetite,mild fever,phlegm,chest pain
+Tuberculosis,chills,vomiting,fatigue,weight loss,cough,breathlessness,sweating,loss of appetite,mild fever,yellowing of eyes,chest pain
+Tuberculosis,chills,vomiting,fatigue,weight loss,cough,high fever,sweating,loss of appetite,mild fever,yellowing of eyes,chest pain
+Tuberculosis,chills,vomiting,fatigue,weight loss,cough,high fever,breathlessness,loss of appetite,mild fever,phlegm,swelled lymph nodes
+Pneumonia,chills,fatigue,cough,high fever,breathlessness,sweating,malaise,chest pain,fast heart rate,rusty sputum,0.0
+Pneumonia,chills,fatigue,cough,high fever,breathlessness,sweating,malaise,phlegm,chest pain,fast heart rate,0.0
+Pneumonia,fatigue,cough,high fever,breathlessness,sweating,malaise,phlegm,chest pain,fast heart rate,rusty sputum,0.0
+Pneumonia,chills,cough,high fever,breathlessness,sweating,malaise,phlegm,chest pain,fast heart rate,rusty sputum,0.0
+Pneumonia,chills,fatigue,high fever,breathlessness,sweating,malaise,phlegm,chest pain,fast heart rate,rusty sputum,0.0
+Pneumonia,chills,fatigue,cough,breathlessness,sweating,malaise,phlegm,chest pain,fast heart rate,rusty sputum,0.0
+Pneumonia,chills,fatigue,cough,high fever,sweating,malaise,phlegm,chest pain,fast heart rate,rusty sputum,0.0
+Pneumonia,chills,fatigue,cough,high fever,breathlessness,malaise,phlegm,chest pain,fast heart rate,rusty sputum,0.0
+Pneumonia,chills,fatigue,cough,high fever,breathlessness,sweating,phlegm,chest pain,fast heart rate,rusty sputum,0.0
+Varicose veins,fatigue,cramps,bruising,obesity,swollen legs,swollen blood vessels,prominent veins on calf,Itching sensation,feeling of heaviness in the legs,0.0,0.0
+Varicose veins,cramps,bruising,obesity,swollen legs,swollen blood vessels,prominent veins on calf,fatigue,Itching sensation,feeling of heaviness in the legs,0.0,0.0
+Varicose veins,fatigue,bruising,obesity,swollen legs,swollen blood vessels,prominent veins on calf,cramps,Itching sensation,feeling of heaviness in the legs,0.0,0.0
+Varicose veins,fatigue,cramps,obesity,swollen legs,swollen blood vessels,prominent veins on calf,bruising,Itching sensation,feeling of heaviness in the legs,0.0,0.0
+Varicose veins,fatigue,cramps,bruising,swollen legs,swollen blood vessels,prominent veins on calf,obesity,Itching sensation,feeling of heaviness in the legs,0.0,0.0
+Varicose veins,fatigue,cramps,bruising,obesity,swollen blood vessels,prominent veins on calf,swollen legs,Itching sensation,feeling of heaviness in the legs,0.0,0.0
+Varicose veins,fatigue,cramps,bruising,obesity,swollen legs,prominent veins on calf,swollen blood vessels,Itching sensation,feeling of heaviness in the legs,0.0,0.0
+Hypothyroidism,weight gain,cold hands and feets,mood swings,lethargy,dizziness,puffy face and eyes,enlarged thyroid,brittle nails,swollen extremeties,depression,irritability
+Hypothyroidism,fatigue,cold hands and feets,mood swings,lethargy,dizziness,puffy face and eyes,enlarged thyroid,brittle nails,swollen extremeties,depression,abnormal menstruation
+Hypothyroidism,fatigue,weight gain,mood swings,lethargy,dizziness,puffy face and eyes,enlarged thyroid,brittle nails,swollen extremeties,depression,irritability
+Hypothyroidism,fatigue,weight gain,cold hands and feets,lethargy,dizziness,puffy face and eyes,enlarged thyroid,brittle nails,swollen extremeties,depression,abnormal menstruation
+Hypothyroidism,fatigue,weight gain,cold hands and feets,mood swings,dizziness,puffy face and eyes,enlarged thyroid,brittle nails,swollen extremeties,depression,irritability
+Hypothyroidism,fatigue,weight gain,cold hands and feets,mood swings,lethargy,puffy face and eyes,enlarged thyroid,brittle nails,swollen extremeties,depression,abnormal menstruation
+Hypothyroidism,fatigue,weight gain,cold hands and feets,mood swings,lethargy,dizziness,enlarged thyroid,brittle nails,swollen extremeties,depression,irritability
+Hyperthyroidism,mood swings,weight loss,restlessness,sweating,diarrhoea,fast heart rate,excessive hunger,muscle weakness,irritability,abnormal menstruation,high discomfort in low temperatures
+Hyperthyroidism,fatigue,weight loss,restlessness,sweating,diarrhoea,fast heart rate,excessive hunger,muscle weakness,irritability,abnormal menstruation,high discomfort in low temperatures
+Hyperthyroidism,fatigue,mood swings,restlessness,sweating,diarrhoea,fast heart rate,excessive hunger,muscle weakness,irritability,abnormal menstruation,high discomfort in low temperatures
+Hyperthyroidism,fatigue,mood swings,weight loss,sweating,diarrhoea,fast heart rate,excessive hunger,muscle weakness,irritability,abnormal menstruation,high discomfort in low temperatures
+Hyperthyroidism,fatigue,mood swings,weight loss,restlessness,diarrhoea,fast heart rate,excessive hunger,muscle weakness,irritability,abnormal menstruation,high discomfort in low temperatures
+Hyperthyroidism,fatigue,mood swings,weight loss,restlessness,sweating,fast heart rate,excessive hunger,muscle weakness,irritability,abnormal menstruation,high discomfort in low temperatures
+Hyperthyroidism,fatigue,mood swings,weight loss,restlessness,sweating,diarrhoea,excessive hunger,muscle weakness,irritability,abnormal menstruation,high discomfort in low temperatures
+Hyperthyroidism,fatigue,mood swings,weight loss,restlessness,sweating,diarrhoea,fast heart rate,muscle weakness,irritability,abnormal menstruation,high discomfort in low temperatures
+Hypoglycemia,vomiting,fatigue,anxiety,sweating,headache,nausea,blurred and distorted vision,excessive hunger,slurred speech,irritability,palpitations
+Hypoglycemia,fatigue,anxiety,sweating,headache,nausea,blurred and distorted vision,excessive hunger,drying and tingling lips,slurred speech,irritability,palpitations
+Hypoglycemia,vomiting,anxiety,sweating,headache,nausea,blurred and distorted vision,excessive hunger,drying and tingling lips,slurred speech,irritability,palpitations
+Hypoglycemia,vomiting,fatigue,sweating,headache,nausea,blurred and distorted vision,excessive hunger,drying and tingling lips,slurred speech,irritability,palpitations
+Hypoglycemia,vomiting,fatigue,anxiety,headache,nausea,blurred and distorted vision,excessive hunger,drying and tingling lips,slurred speech,irritability,palpitations
+Hypoglycemia,vomiting,fatigue,anxiety,sweating,nausea,blurred and distorted vision,excessive hunger,drying and tingling lips,slurred speech,irritability,palpitations
+Hypoglycemia,vomiting,fatigue,anxiety,sweating,headache,blurred and distorted vision,excessive hunger,drying and tingling lips,slurred speech,irritability,palpitations
+Hypoglycemia,vomiting,fatigue,anxiety,sweating,headache,nausea,excessive hunger,drying and tingling lips,slurred speech,irritability,palpitations
+Osteoarthristis,joint pain,neck pain,knee pain,hip joint pain,swelling joints,painful walking,squeaking sounds,loss of elasticity,stiffness,0.0,0.0
+Osteoarthristis,neck pain,knee pain,hip joint pain,swelling joints,painful walking,joint pain,squeaking sounds,loss of elasticity,stiffness,0.0,0.0
+Osteoarthristis,joint pain,knee pain,hip joint pain,swelling joints,painful walking,neck pain,squeaking sounds,loss of elasticity,stiffness,0.0,0.0
+Osteoarthristis,joint pain,neck pain,hip joint pain,swelling joints,painful walking,knee pain,squeaking sounds,loss of elasticity,stiffness,0.0,0.0
+Osteoarthristis,joint pain,neck pain,knee pain,swelling joints,painful walking,hip joint pain,squeaking sounds,loss of elasticity,stiffness,0.0,0.0
+Osteoarthristis,joint pain,neck pain,knee pain,hip joint pain,painful walking,swelling joints,squeaking sounds,loss of elasticity,stiffness,0.0,0.0
+Arthritis,muscle weakness,stiff neck,swelling joints,movement stiffness,painful walking,increased heat in the joint,loss of joint function,0.0,0.0,0.0,0.0
+Arthritis,stiff neck,swelling joints,movement stiffness,painful walking,muscle weakness,increased heat in the joint,loss of joint function,0.0,0.0,0.0,0.0
+Arthritis,muscle weakness,swelling joints,movement stiffness,painful walking,stiff neck,increased heat in the joint,loss of joint function,0.0,0.0,0.0,0.0
+Arthritis,muscle weakness,stiff neck,movement stiffness,painful walking,swelling joints,increased heat in the joint,loss of joint function,0.0,0.0,0.0,0.0
+Arthritis,muscle weakness,stiff neck,swelling joints,painful walking,movement stiffness,increased heat in the joint,loss of joint function,0.0,0.0,0.0,0.0
+(vertigo) Paroymsal  Positional Vertigo,vomiting,headache,nausea,spinning movements,loss of balance,unsteadiness,severe attacks,staggers,loss of strength,earring,0.0
+(vertigo) Paroymsal  Positional Vertigo,headache,nausea,spinning movements,loss of balance,unsteadiness,vomiting,severe attacks,staggers,loss of strength,earring,0.0
+(vertigo) Paroymsal  Positional Vertigo,vomiting,nausea,spinning movements,loss of balance,unsteadiness,headache,severe attacks,staggers,loss of strength,earring,0.0
+(vertigo) Paroymsal  Positional Vertigo,vomiting,headache,spinning movements,loss of balance,unsteadiness,nausea,severe attacks,staggers,loss of strength,earring,0.0
+(vertigo) Paroymsal  Positional Vertigo,vomiting,headache,nausea,loss of balance,unsteadiness,spinning movements,severe attacks,staggers,loss of strength,earring,0.0
+(vertigo) Paroymsal  Positional Vertigo,vomiting,headache,nausea,spinning movements,unsteadiness,loss of balance,severe attacks,staggers,loss of strength,earring,0.0
+Acne,skin rash,pus filled pimples,blackheads,scurring,painful lumps,solid lumps,small red tender bumps,cystic lesions,0.0,0.0,0.0
+Acne,pus filled pimples,blackheads,scurring,skin rash,painful lumps,solid lumps,small red tender bumps,cystic lesions,0.0,0.0,0.0
+Acne,skin rash,blackheads,scurring,pus filled pimples,painful lumps,solid lumps,small red tender bumps,cystic lesions,0.0,0.0,0.0
+Acne,skin rash,pus filled pimples,scurring,blackheads,painful lumps,solid lumps,small red tender bumps,cystic lesions,0.0,0.0,0.0
+Urinary tract infection,burning micturition,bladder discomfort,foul smell of urine,continuous feel of urine,urine that is reddish in color,pain under the ribs,pain near ribs,urinating a small amount,0.0,0.0,0.0
+Urinary tract infection,bladder discomfort,foul smell of urine,continuous feel of urine,burning micturition,urine that is reddish in color,pain under the ribs,pain near ribs,urinating a small amount,0.0,0.0,0.0
+Urinary tract infection,burning micturition,foul smell of urine,continuous feel of urine,bladder discomfort,urine that is reddish in color,pain under the ribs,pain near ribs,urinating a small amount,0.0,0.0,0.0
+Urinary tract infection,burning micturition,bladder discomfort,continuous feel of urine,foul smell of urine,urine that is reddish in color,pain under the ribs,pain near ribs,urinating a small amount,0.0,0.0,0.0
+Psoriasis,skin rash,joint pain,skin peeling,silver like dusting,small dents in nails,inflammatory nails,scaling in the knee and elbow areas,dry skin,itching and bleeding,0.0,0.0
+Psoriasis,joint pain,skin peeling,silver like dusting,small dents in nails,inflammatory nails,skin rash,scaling in the knee and elbow areas,dry skin,itching and bleeding,0.0,0.0
+Psoriasis,skin rash,skin peeling,silver like dusting,small dents in nails,inflammatory nails,joint pain,scaling in the knee and elbow areas,dry skin,itching and bleeding,0.0,0.0
+Psoriasis,skin rash,joint pain,silver like dusting,small dents in nails,inflammatory nails,skin peeling,scaling in the knee and elbow areas,dry skin,itching and bleeding,0.0,0.0
+Psoriasis,skin rash,joint pain,skin peeling,small dents in nails,inflammatory nails,silver like dusting,scaling in the knee and elbow areas,dry skin,itching and bleeding,0.0,0.0
+Psoriasis,skin rash,joint pain,skin peeling,silver like dusting,inflammatory nails,small dents in nails,scaling in the knee and elbow areas,dry skin,itching and bleeding,0.0,0.0
+Impetigo,skin rash,high fever,blister,red sore around nose,yellow crust ooze,prickling sensation,small red-pink spots,pain and tenderness,stinging sensation,0.0,0.0
+Impetigo,high fever,blister,red sore around nose,yellow crust ooze,skin rash,prickling sensation,small red-pink spots,pain and tenderness,stinging sensation,0.0,0.0
+Impetigo,skin rash,blister,red sore around nose,yellow crust ooze,high fever,prickling sensation,small red-pink spots,pain and tenderness,stinging sensation,0.0,0.0
+Impetigo,skin rash,high fever,red sore around nose,yellow crust ooze,blister,prickling sensation,small red-pink spots,pain and tenderness,stinging sensation,0.0,0.0
+Impetigo,skin rash,high fever,blister,yellow crust ooze,red sore around nose,prickling sensation,small red-pink spots,pain and tenderness,stinging sensation,0.0,0.0
